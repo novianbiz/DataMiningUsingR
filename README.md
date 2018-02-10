@@ -1,4 +1,4 @@
-#Data Mining Using R
+# Data Mining Using R
 
 ## CARA PENGGUNAAN
 ### Download RStudio
